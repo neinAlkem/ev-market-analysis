@@ -23,8 +23,6 @@ Bruce Haryali, the chief of AtliQ Motors India wanted to do a detailed market st
 9. What is the projected number of EV sales (including 2-wheelers and 4- wheelers) for the top 10 states by penetration rate in 2030, based on the compounded annual growth rate (CAGR) from previous years?
 10. Estimate the revenue growth rate of 4-wheeler and 2-wheelers EVs in India for 2022 vs 2024 and 2023 vs 2024, assuming an average unit price.
 
-![Vehicle Price](assets/price.png)
-
 # Tools
 
 - **PostgreSQL**: Acts as the database management system for storing, managing, and querying EV market data. Supports complex SQL queries, aggregations, and data transformations for metrics like penetration rates and CAGR.
